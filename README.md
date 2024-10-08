@@ -1,0 +1,2 @@
+# TestGit
+Testiranje komandi git
